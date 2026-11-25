@@ -1,7 +1,7 @@
 id=odin2portal_dt2w
 name=Odin 2 Portal Double Tap to Wake
-version=v1.0
-versionCode=100
+version=v1.1
+versionCode=110
 author=jevonlipsey
 description=Double tap the screen to wake your Odin 2 Portal. Falls back to the stock touch driver if anything doesn't match.
 updateJson=https://raw.githubusercontent.com/jevonlipsey/odin2-portal-dt2w/main/update.json
